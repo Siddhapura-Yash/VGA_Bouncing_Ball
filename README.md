@@ -172,11 +172,11 @@ Run the simulation:
 ```
 obj_dir/Vdisplay
 ```
-<<<<<<< HEAD
 
 ---
 
 ## Simulation Result
+<div align="center">
 
 <table>
 <tr>
@@ -187,17 +187,20 @@ obj_dir/Vdisplay
 <img src="results/vga_output.png" width="300">
 
 </td>
+
+<td width="40"></td>
+
 <td align="center">
 
-**Simulation Video**
+**Simulation Animation**
 
-<a href="results/vga_demo.gif">
-<img src="results/video_thumb.png" width="300">
-</a>
+<img src="results/vga_demo.gif" width="300">
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
