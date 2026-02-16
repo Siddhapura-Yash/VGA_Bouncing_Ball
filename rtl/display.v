@@ -1,5 +1,6 @@
-`timescale 1ns / 1ps
+// Project integration: Yash Siddhapura | siddhapurayash09@gmail.com
 
+`timescale 1ns / 1ps
 module display(
     input wire clk, reset,
     input wire up, down, left, right,

@@ -172,6 +172,7 @@ Run the simulation:
 ```
 obj_dir/Vdisplay
 ```
+<<<<<<< HEAD
 
 ---
 
@@ -180,6 +181,22 @@ obj_dir/Vdisplay
 ### Checkerboard Pattern
 
 ![VGA Output](results/vga_output.png)
+=======
+---
+
+## Other Graphics Examples
+
+Additional pattern examples are provided as separate files.
+
+To try a different pattern:
+
+1. Open the desired pattern file.
+2. Copy its contents.
+3. Replace the contents of `graphics.v` with that code.
+4. Recompile and run the simulation.
+
+This allows you to quickly test different graphics patterns on the VGA screen.
+>>>>>>> 919ef17 (added new patterns and result of simulation)
 
 ### Bouncing Ball
 

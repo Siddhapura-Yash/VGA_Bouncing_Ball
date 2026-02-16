@@ -1,3 +1,4 @@
+// Project integration: Yash Siddhapura | siddhapurayash09@gmail.com
 `timescale 1ns/1ps
 
 module graphics (
