@@ -178,10 +178,27 @@ obj_dir/Vdisplay
 
 ## Simulation Result
 
-### Checkerboard Pattern
+<table>
+<tr>
+<td align="center">
 
-![VGA Output](results/vga_output.png)
-=======
+**VGA Output**
+
+<img src="results/vga_output.png" width="300">
+
+</td>
+<td align="center">
+
+**Simulation Video**
+
+<a href="results/vga_demo.mp4">
+<img src="results/video_thumb.png" width="300">
+</a>
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Other Graphics Examples
@@ -198,10 +215,6 @@ To try a different pattern:
 This allows you to quickly test different graphics patterns on the VGA screen.
 >>>>>>> 919ef17 (added new patterns and result of simulation)
 
-### Bouncing Ball
-
-[Watch simulation video](results/vga_demo.mp4)
-
 ---
 
 ## Other Graphics Examples
@@ -216,3 +229,4 @@ To try a different pattern:
 4. Recompile and run the simulation.
 
 This allows you to quickly test different graphics patterns on the VGA screen.
+
