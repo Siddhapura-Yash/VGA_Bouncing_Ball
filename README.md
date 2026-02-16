@@ -191,7 +191,7 @@ obj_dir/Vdisplay
 
 **Simulation Video**
 
-<a href="results/vga_demo.mp4">
+<a href="results/vga_demo.gif">
 <img src="results/video_thumb.png" width="300">
 </a>
 
