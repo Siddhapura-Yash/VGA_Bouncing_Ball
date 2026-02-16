@@ -216,7 +216,6 @@ To try a different pattern:
 4. Recompile and run the simulation.
 
 This allows you to quickly test different graphics patterns on the VGA screen.
->>>>>>> 919ef17 (added new patterns and result of simulation)
 
 ---
 
