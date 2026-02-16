@@ -172,6 +172,19 @@ Run the simulation:
 ```
 obj_dir/Vdisplay
 ```
+
+---
+
+## Simulation Result
+
+### Checkerboard Pattern
+
+![VGA Output](results/vga_output.png)
+
+### Bouncing Ball
+
+[Watch simulation video](results/vga_demo.mp4)
+
 ---
 
 ## Other Graphics Examples
